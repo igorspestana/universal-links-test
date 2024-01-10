@@ -4,8 +4,13 @@
     "details": [
       {
         "appID": "T39VNS6BSR.br.com.sysmap.appssg",
-        "paths": ["*"]
+        "paths": ["/"]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "T39VNS6BSR.br.com.sysmap.appssg"
     ]
   }
 }
